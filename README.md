@@ -41,7 +41,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/j.m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j.m" /></a></p><br><br>
---
+<hr>
 <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JithmaKaluarachchi&show_icons=true&locale=en&theme=tokyonight" alt="JithmaKaluarachchi" />
 
