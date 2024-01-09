@@ -43,9 +43,7 @@
 <p><a href="https://www.buymeacoffee.com/j.m"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="j.m" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JithmaKaluarachchi&langs_count=8&theme=tokyonight" alt=JithmaKaluarachchi />
-
-<p>&nbsp;<br><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JithmaKaluarachchi&show_icons=true&locale=en&theme=tokyonight" alt="JithmaKaluarachchi" /></p>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JithmaKaluarachchi&show_icons=true&locale=en&theme=tokyonight" alt="JithmaKaluarachchi" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JithmaKaluarachchi&theme=onedark" alt="JithmaKaluarachchi" /></p>
 
