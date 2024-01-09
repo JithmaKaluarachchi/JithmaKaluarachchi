@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Jithma Kaluarachci</h1>
 <h3 align="center">I am a university student at SLIIT</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JithmaKaluarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="JithmaKaluarachchi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JithmaKaluarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="JithmaKaluarachchi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JithmaKaluarachchi&theme=" alt="JithmaKaluarachchi" /></a> </p>
 
